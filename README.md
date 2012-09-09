@@ -39,4 +39,4 @@ If you're not logged in to Ruby Gems, it will ask you to log in, then it will pu
 
 `gem install extension`
 
-### AND YOU'RE DONE.
+# AND YOU'RE DONE.
