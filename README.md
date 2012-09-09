@@ -42,3 +42,13 @@ If you're not logged in to Ruby Gems, it will ask you to log in, then it will pu
 <hr>
 
 # AND YOU'RE DONE.
+
+<hr>
+
+## Special Thanks
+Super special thanks goes out to [Nathan Weizenbaum](https://github.com/nex3/) for Sass, [Chris Eppstein](https://github.com/chriseppstein/) for Compass, and [Mason Wendell](https://github.com/canarymason/) and [Scott Kellum](https://github.com/scottkellum/), my Compass extension partners in crime. Much of what's presented here is an amalgamation of what Chris, Mason, and Scott have taught me, so double thanks to them.
+
+## License
+[Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0). Go wild.
+
+If you're able to link me to your extension so I can see what you've built, that'd be awesome!
