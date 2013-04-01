@@ -11,6 +11,7 @@ Gem::Specification.new do |s|
   # Gem Details
   # Replace "extension" with the name of your extension
   s.name = "extension"
+  s.rubyforge_project = "extension"
   # Description of your extension
   s.description = %q{A generalized Compass extension to build off of}
   # A summary of your Compass extension. Should be different than Description
@@ -27,7 +28,7 @@ Gem::Specification.new do |s|
   # Gem Files
   # These are the files to be included in your Compass extension.
   # Uncomment those that you use.
-  
+
   # README file
   # s.files = ["README.md"]
 
@@ -36,10 +37,10 @@ Gem::Specification.new do |s|
 
   # Library Files
   s.files += Dir.glob("lib/**/*.*")
-  
+
   # Sass Files
   # s.files += Dir.glob("stylesheets/**/*.*")
-  
+
   # Template Files
   # s.files += Dir.glob("templates/**/*.*")
 
