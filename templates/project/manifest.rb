@@ -1,10 +1,16 @@
-# Description 
+# Description
 description "Description of your Compass Template"
 
 # Stylesheet Import
-file 'screen.scss',  :media => 'screen, projection'
-file 'print.scss',  :media => 'screen, projection'
-file 'ie.scss',  :media => 'screen, projection', :condition => "lt IE 9"
+file 'screen.scss', :like => :stylesheet, :media => 'screen, projection'
+file 'print.scss', :like => :stylesheet, :media => 'screen, projection'
+file 'ie.scss', :like => :stylesheet, :media => 'screen, projection', :condition => "lt IE 9"
+
+# Javascript Import
+# file 'scripts.js', :like => :javascript, :to => 'scripts.js'
+
+# General File Import
+# file 'README.md', :to => "README.md"
 
 # Compass Extension Help
 help %Q{
